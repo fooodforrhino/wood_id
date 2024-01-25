@@ -10,5 +10,5 @@ Maheep Mouli Shashi
 Nyan Lin Aung
 Raul Alexandre Bertagnoli Winkelmann
 
-We want to design a plataform that opperates basically as a huge nexus for woodwork. One of the most versatile materials, wood remains till this day one of the most popular and valued materials for design, while also easily modifiable, generally light and durable. [^1]
+*We want to design a plataform that opperates basically as a huge nexus for woodwork. One of the most versatile materials, wood remains till this day one of the most popular and valued materials for design, while also easily modifiable, generally light and durable.*
 
